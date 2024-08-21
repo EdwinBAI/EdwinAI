@@ -1,0 +1,2 @@
+# EdwinAI
+My personal repository
